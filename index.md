@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Hi, I'm Yen Chieh Wang 👋
+# Hi, I'm Yen C. Wang 👋
 
 I'm a Data Scientist specializing in machine learning, data visualization, and cloud technologies. I'm passionate about turning complex data into actionable insights.
 
