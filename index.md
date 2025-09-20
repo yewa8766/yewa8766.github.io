@@ -16,6 +16,13 @@ Here are a few projects I've worked on. You can find more on my [GitHub profile]
 - **Tech Stack:** Python, Scikit-learn, Pandas
 - **[View on GitHub](https://github.com/yewa8766/cc_approvals)**
 
+### 🔎 Automatic License Plate Recognition (ALPR)
+- **Description:** A computer vision project that automatically detects and reads vehicle license plates from an image. The pipeline uses OpenCV for image processing and EasyOCR for accurate text recognition.
+- **Tech Stack:** Python, OpenCV, EasyOCR, NumPy
+- **[View on GitHub](https://github.com/your-username/plate)**
+
+
+
 ### 🚗 Component Lifespan Prediction
 - **Description:** Built and deployed a predictive model on Azure to estimate the lifespan of automotive components, helping engineers improve product design.
 - **Tech Stack:** Python, Azure, Databricks, PySpark, SQL, Power BI
