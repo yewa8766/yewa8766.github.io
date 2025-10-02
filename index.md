@@ -11,6 +11,11 @@ I'm a Data Scientist specializing in machine learning, data visualization, and c
 
 Here are a few projects I've worked on. You can find more on my [GitHub profile](https://github.com/yewa8766).
 
+### 🚥 Time-Series Forecasting for Traffic Volume
+- **Description:** Developed a deep learning model using LSTMs to forecast hourly traffic volume based on historical and weather data. Implemented a robust training pipeline featuring Early Stopping and a Learning Rate Scheduler to prevent overfitting and optimize performance.
+- **Tech Stack:** Python, PyTorch, Pandas, Scikit-learn
+- **[View on GitHub](https://github.com/yewa8766/trafic_volume)**
+
 ### 💳 Predicting Credit Card Approvals
 - **Description:** Developed a machine learning model to automate credit card approval decisions, improving accuracy and reducing manual workload.
 - **Tech Stack:** Python, Scikit-learn, Pandas
@@ -26,7 +31,6 @@ Here are a few projects I've worked on. You can find more on my [GitHub profile]
 ### 🚗 Component Lifespan Prediction
 - **Description:** Built and deployed a predictive model on Azure to estimate the lifespan of automotive components, helping engineers improve product design.
 - **Tech Stack:** Python, Azure, Databricks, PySpark, SQL, Power BI
-- **[View on GitHub](https://github.com/yewa8766/rul_volvoce)**
 
 ---
 
